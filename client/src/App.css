@@ -10,16 +10,24 @@
 }
 
 h1 {
-  /* text-align: center; */
+  padding: 1%;
+  margin:  5%;
   z-index: 10;
-  padding-left: 8px;
+  background-color: transparent;
+  position: fixed;
+  right: 3%;
+  font-family: 'Special Elite', cursive;
+  font-size: xx-large;
 }
 
 .black-header {
+  border: 1px white;
+  color: #1d1af5;
   font-weight: bold;
 }
 
 .new-colour-header{
-  color: rgb(44, 71, 160);
+  outline: 1px white;
+  color: #fed712;
   font-weight: bold;
 }
